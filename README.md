@@ -11,7 +11,7 @@
 ## History
 
 1. 原来设置的时间是UTC时间的每日1:00 AM，即China Time的9:00 AM，但是因为近期Actions出现波动，导致很多人没打上卡，现在增加UTC时间的17:00(China Time次日1:00)
-2. 改进README使用说明
+2. 改进READ使用说明
 3. 重写了 `auto.py`, 使其更易读，并改进了日志输出方式;删除了 `config.py`，添加了 `test.py`
 
 ## 说明
